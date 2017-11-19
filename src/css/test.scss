@@ -1,0 +1,34 @@
+.red-border {
+    border: solid 1px red;
+}
+.blue-border {
+    border: solid 1px blue;
+}
+
+// /////////////////////////
+
+.string-container {
+    height: 100px;
+    width: 100%;
+}
+
+.fret-container {
+    height: 100px;
+    width: 8%;
+    display: inline-block;
+}
+
+.fret-inner-div {
+    position: relative;
+    top: 40%;
+}
+
+
+.fret-circle {
+    width: 20px;
+    height: 20px;
+    background-color: darkred;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+}
