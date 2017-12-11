@@ -13,7 +13,7 @@ export default class Fretboard extends Component {
                             <div className="fret-circle"></div>
                         </div>
                     </div>
-                    <div className="fret-container blue-border"></div>
+                    <div className="fret-container blue-border">test</div>
                     <div className="fret-container blue-border"></div>
                     <div className="fret-container blue-border"></div>
                     <div className="fret-container blue-border"></div>
